@@ -1,4 +1,6 @@
 #the bytearray is mutable 
+#indexed
+#ordered
 
 Data = bytearray([65,97,98])
 print(Data)
